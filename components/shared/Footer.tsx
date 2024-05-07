@@ -15,7 +15,7 @@ const Footer = () => {
         />
         </Link>
 
-        <p>&copy; ~ Made By Aryan Srivastava</p>
+        <p>&copy; ~ Aryan Srivastava</p>
       </div>
     </footer>
   )
