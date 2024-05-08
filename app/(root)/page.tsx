@@ -27,8 +27,6 @@ export default function Home() {
         />
       </div>
     </section>
-
-
     <section id="events" className="wrapper my-8 flex flex-col gap-89 md:gap-12">
       <h2 className="h2-bold">Trusted by <br/> Thousands of events</h2>
 
