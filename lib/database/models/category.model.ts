@@ -1,3 +1,5 @@
+'use server'
+
 import { Schema, Document, model, models } from "mongoose";
 
 export interface ICategory extends Document {
