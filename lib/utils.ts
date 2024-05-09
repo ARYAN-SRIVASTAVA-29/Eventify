@@ -1,4 +1,3 @@
-'use server'
 
 import { type ClassValue, clsx } from 'clsx'
 
