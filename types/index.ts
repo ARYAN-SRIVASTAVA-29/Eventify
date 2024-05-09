@@ -1,3 +1,5 @@
+'use server'
+
 // ====== USER PARAMS
 export type CreateUserParams = {
     clerkId: string
